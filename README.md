@@ -1,7 +1,7 @@
 # Web_Calculator
 
 > ### This is a web based calculator developed using HTML, SCSS and JS
-> ![Cat Generator Screenshot](https://github.com/AdithyanA2005/JS_Simple_Programs/blob/main/01-Cat_Generator/github/snapshot.png)
+> ![Cat Generator Screenshot](https://github.com/AdithyanA2005/Web_Calculator/blob/main/assets/images/Screenshot.png)
 
 ---
 
